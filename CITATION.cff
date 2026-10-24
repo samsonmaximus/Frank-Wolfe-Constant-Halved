@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this result, please cite the preprint."
+title: "Halving the Constant in the Frank–Wolfe Rate via a Variance Argument"
+authors:
+  - family-names: Fraser
+    given-names: Samson
+version: "1.0"
+date-released: 2026-10-24
+repository-code: "https://github.com/samsonmaximus/Frank-Wolfe-Constant-Halved"
+license: MIT
